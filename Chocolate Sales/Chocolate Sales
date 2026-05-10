@@ -1,1 +1,14 @@
+About this project
+Project Description Built an end-to-end Power BI analytics solution for a global chocolate retail business 
+spanning 6 countries, 100 stores, and 1 million transactions across 2023–2024.
+The project covered the full BI lifecycle profiling raw data across 5 CSV tables, resolving data quality issues
+including orphan foreign keys and future-dated records, enriching a Calendar dimension with time intelligence columns, 
+and designing a clean star schema model. Authored DAX measures across four layers
+— base KPIs, time intelligence (YTD, MTD, YoY, rolling averages), customer segmentation, 
+and dynamic UX titles — and delivered a 5-page interactive dashboard surfacing $25.5M in revenue insights,
+a 40% profit margin, and actionable findings around store channel performance and loyalty program ROI. What I Found
+- Airport stores lead revenue at $7.6M (29.9% share)Outperforms Mall, Online, and Retail - channelsLoyalty 
+program delivers 50.1% of total revenue25,104 members — near-perfect program adoption - 
+9,764 orphan rows detected ($247K revenue at risk)Missing product IDs — required data remediation Profit margin 
+stable at 40% across 24 monthsConsistent pricing discipline across all 6 markets
 
